@@ -1,0 +1,8 @@
+<style android:name="tabLayout_text"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:name="textColor">@color/black</item>
+        <item android:name="fontFamily">@font/sf_pro_display</item>
+        <item android:name="textAllCaps">false</item>
+        <item android:name="android:textStyle">bold</item>
+
+    </style>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41852362104",
+    "project_id": "agrisphere-4e5b1",
+    "storage_bucket": "agrisphere-4e5b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41852362104:android:ea3c0710a813c4a54e7c8d",
+        "android_client_info": {
+          "package_name": "com.example.agrisphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN43g5aKxyYzPXmluOjiu2vbQerPKOW9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

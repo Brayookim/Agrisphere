@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgriSphere</string>
+    <string name="main">The Right Platform \nFor Shopping\nAnyday</string>
+    <string name="introduction"><![CDATA[An Agribased marketplace & platform\nsuited for all your Agro needs.]]></string>
+    <string name="ResetPassword">Reset Password\n</string>
+    <string name="ResetPassword1">Reset Password</string>
+</resources>
